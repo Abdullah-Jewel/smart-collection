@@ -1,0 +1,8 @@
+{
+  "name": " Smart Collection",
+  "description": "Minimalist premium clothing store application styling catalog and interactive Flutter blueprints",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
